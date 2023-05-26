@@ -30,7 +30,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 #profilePicture {
-	border-radius: 50%;	
+	border-radius: 50%;
+	height: 400px;
+    	width: 330px;
 } 
 
 body {
